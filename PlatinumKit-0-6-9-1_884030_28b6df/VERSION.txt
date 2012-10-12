@@ -1,0 +1,7 @@
+Platinum Kit Version 0-6-9-1
+-----------------------------
+
+This kit is composed of modules with the following GIT repository hashes:
+
+Neptune:  28b6df
+Platinum:  884030
